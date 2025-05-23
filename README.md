@@ -110,10 +110,10 @@ Wednesday, May 21, 2025
 Thursday, May 22, 2025 
 * 09:00 AM – 10:00 AM o [Probabilistic Graphical Models](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day4/PGMslidesSchafer.pdf); C Schafer
 * 10:00 AM – 10:30 AM o Break 
-* 10:30 AM – 12:00 PM o  [Problem](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day4/PGM_Examples_and_Exercises.ipynb): [Solutions](Day4/); Probabilistic Graphical Models; C Schafer 
+* 10:30 AM – 12:00 PM o  [Problem](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day4/PGM_Examples_and_Exercises.ipynb): [Solutions](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day4/PGM_Examples_and_Exercises_Sols.ipynb); Probabilistic Graphical Models; C Schafer 
 * 12:00 PM – 01:30 PM o LUNCH 
 * 01:30 PM – 02:30 PM o [Hierarchical Modeling](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day4/LSST_Day4_HBayes.pdf); G Gilbert
-* 02:30 PM – 04:00 PM o [Problem](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day4/Day4_HBayes.ipynb) | [Solution](Day4/); Hierarchical Modeling; G Gilbert
+* 02:30 PM – 04:00 PM o [Problem](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day4/Day4_HBayes.ipynb) | [Solution][(Day4/)](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day4/PGM_Examples_and_Exercises_Sols.ipynb); Hierarchical Modeling; G Gilbert
 * 04:00 PM – 04:30 PM o Break 
 * 04:30 PM – 05:00 PM o Hack Pitch Session  
  
@@ -126,7 +126,7 @@ Thursday, May 22, 2025
 --  
 
 Friday, May 23, 2025
-* 9:00 AM - 9:45 AM o [Intractable Posteriors](Day5/); G Gilbert
+* 9:00 AM - 9:45 AM o [Intractable Posteriors](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day5/LSST_Day5_Posteriors.pdf); G Gilbert
 * 09:45 AM – 10:45 AM o [Problem](Day5/) [Solution](Day5/); Intractable Posteriors G Gilbert
 * 10:45 AM – 11:00 AM o BREAK 
 * 11:00 AM – 12:00 PM o Hack Session
